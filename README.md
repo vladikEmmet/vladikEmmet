@@ -1,8 +1,8 @@
 <h1 align="center" style="font-size: 34px">Hi there 👋, I'm Vladislav!</h1>
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&color=BA4EF7&center=true&repeat=false&random=true&width=435&lines=Frontend+Developer" alt="Frontend Developer" /></a>
-<ul>
+<ul style="list-style: none">
     <li style="display: flex; align-items: center; gap: 10px;">
-        <img height="45" width="50" src="https://github.com/vladikEmmet/vladikEmmet/raw/images/academ (2).png/"/>
+        <img height="45" width="50" src="https://github.com/vladikEmmet/vladikEmmet/raw/images/academ (2).png/" float="left"/>
         <p style="margin-left: 10px; font-size: 16px;">Student of the <strong>Faculty of Big Data Analysis</strong> at <strong>Astana IT University</strong></p>
     </li>
     <li style="display: flex; align-items: center; margin-top: 20px; gap: 10px;">
