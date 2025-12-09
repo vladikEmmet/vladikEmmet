@@ -2,11 +2,11 @@
 #### Frontend Developer
 ![Frontend Developer](https://github.com/vladikEmmet/portfolio1/raw/main/public/demo-share.jpg)
 
-Student at Astana IT University (direction - Big Data Analysis). I love learning everything new in the IT world. You can get to know me better by visiting my [website](https://www.vladislavobedkov.me) or [contacting me](mailto:vladikobdk@gmail.com)
+Student at Astana IT University (direction - Big Data Analysis). I love learning everything new in the IT world. You can get to know me better by visiting my [website](https://www.obedkov.dev) or [contacting me](mailto:vladikobdk@gmail.com)
 
 Skills: VUE JS / REACT / JS / HTML / CSS
 
-- 🔭 I’m currently working on IT committee of [AITUSA](https://astanait.edu.kz/en/university-life-2/student-council-en/) (Astana IT University) 
+- 🔭 I’m currently working on [Cerebro Innovation Technologies](https://cerebrolab.kz/)
 - 🌱 I’m currently learning **Swift**, **Python**, **Angular** 
 
 
